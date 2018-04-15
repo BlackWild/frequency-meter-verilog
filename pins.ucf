@@ -1,0 +1,17 @@
+NET "clk" LOC = "P55" ;
+
+NET "signal" LOC = "P97" ;
+
+NET "d<1>" LOC = "P120" ;
+NET "d<2>" LOC = "P119" ;
+NET "d<3>" LOC = "P115" ;
+NET "d<4>" LOC = "P124" ;
+
+NET "z<0>" LOC = "P123" ;
+NET "z<1>" LOC = "P111" ;
+NET "z<2>" LOC = "P114" ;
+NET "z<3>" LOC = "P112" ;
+NET "z<4>" LOC = "P121" ;
+NET "z<5>" LOC = "P117" ;
+NET "z<6>" LOC = "P116" ;
+NET "z<7>" LOC = "P118" ;
